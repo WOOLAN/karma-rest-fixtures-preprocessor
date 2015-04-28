@@ -1,0 +1,30 @@
+{
+  "name": "karma-rest-fixtures-preprocessor",
+  "version": "0.1.0",
+  "description": "Preprocessor for simplifying testing REST calls by adding json files as fixtures.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/WOOLAN/karma-rest-fixtures-preprocessor.git"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-preprocessor",
+    "angularjs",
+    "angular",
+    "unit-testing",
+    "fixtures",
+    "rest"
+  ],
+  "author": {
+    "name": "WOOLAN",
+    "email": "WOOLAN@piratized.se"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {
+    "karma": ">=0.9"
+  },
+  "license": "MIT",
+  "url": "https://github.com/WOOLAN/karma-rest-fixtures-preprocessor/blob/master/LICENSE"
+}
